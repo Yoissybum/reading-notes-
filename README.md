@@ -7,6 +7,7 @@ Hola! Soy Yoissy, y lo que debería saber de mí es que soy una persona apasiona
 ## Mis apuntes de la Sesión 05 - Markdown y Web Publishing
 
 ### Markdown
+
 | Concepto              | Descripción |
 |----------------------|-------------|
 | **¿Qué significa Markdown?** | Lenguaje de marcado ligero |
@@ -15,12 +16,16 @@ Hola! Soy Yoissy, y lo que debería saber de mí es que soy una persona apasiona
 | **Extensión de Markdown** | `.md` |
 
 ### GitHub
+
 | Concepto              | Descripción |
 |----------------------|-------------|
-| **¿Qué es GitHub?** | Plataforma plataforma para trabajar y compartir proyectos de desarrollo de software |
+| **¿Qué es GitHub?** | Plataforma para trabajar y compartir proyectos de desarrollo de software |
 | **¿Qué es un repositorio?** | Espacio donde se almacenan archivos y cambios de un proyecto |
 | **Nombre de un repositorio** | Sin espacios, sin mayúsculas, usar guion (-) o guion bajo (_), todo en minúsculas |
 | **GitHub Pages** | Permite publicar (deployar) los repositorios almacenados en GitHub (servicio de hosting) |
+
+---
+
 
 ## Mi visión como desarrollador
 

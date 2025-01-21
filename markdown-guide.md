@@ -12,8 +12,8 @@ Todo lo que se trabaja en Markdown se procesa como HTML.
 ## Extensión de archivos Markdown
 Los archivos de Markdown tienen la extensión `.md`.
 
----
-## Comparación entre HTML y Markdown
+### Comparación entre HTML y Markdown
+
 | Elemento          | HTML                          | Markdown       |
 |------------------|-----------------------------|---------------|
 | Título 1        | `<h1>Título 1</h1>`         | `# Título 1`  |
@@ -25,8 +25,10 @@ Los archivos de Markdown tienen la extensión `.md`.
 | Lista desordenada | `<ul><li>Otro elemento</li></ul>` | `- Aquí otro elemento`  |
 | Imagen          | `<img src='imagen.jpg'/>`  | `![Descripción de imagen](Link)`  |
 | Enlace          | `<a href='url'>Texto</a>`  | `[Descripción de link](Link)`  |
----
+
+
 ## GitHub
+
 ### ¿Qué es GitHub?
 GitHub es una plataforma para el control de versiones y la colaboración en proyectos de desarrollo.
 

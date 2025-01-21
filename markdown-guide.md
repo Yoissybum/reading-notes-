@@ -21,8 +21,8 @@ Los archivos de Markdown tienen la extensión `.md`.
 | Título 3        | `<h3>Título 3</h3>`         | `### Título 3` |
 | Negrita         | `<strong>Texto</strong>`   | `**Texto**` o `__Texto__` |
 | Cursiva         | `<em>Texto</em>`           | `*Texto*` o `_Texto_` |
-| Lista ordenada  | `<ol><li>Item</li></ol>`   | `1. Item`  |
-| Lista desordenada | `<ul><li>Item</li></ul>` | `- Item`  |
+| Lista ordenada  | `<ol><li>Un elemento</li></ol>`   | `1. Aquí ponemos un elemento`  |
+| Lista desordenada | `<ul><li>Otro elemento</li></ul>` | `- Aquí otro elemento`  |
 | Imagen          | `<img src='imagen.jpg'/>`  | `![Descripción de imagen](Link)`  |
 | Enlace          | `<a href='url'>Texto</a>`  | `[Descripción de link](Link)`  |
 ---

@@ -2,7 +2,7 @@
 
 ## Preguntas y Respuestas
 
-### **1️. ¿Qué hacen los siguientes comandos?**
+### 1. ¿Qué hacen los siguientes comandos?
 
 -  `pwd`: Nos mestra el directorio actual (ruta donde te encuentras).
 - `ls`: Da la lista los archivos y carpetas en el directorio actual.

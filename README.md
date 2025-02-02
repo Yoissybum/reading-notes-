@@ -2,7 +2,7 @@
 #### 17 años, Lima Perú
 Hola! Soy Yoissy, y lo que debería saber de mí es que soy una persona apasionada por la planificación y la organización. Me interesa la programación, la psicología, las matemáticas y muchas otras áreas. Me gusta los animales, y tengo una gatito llamado Blanquito y un perro llamado Apolo.
 
-![Foto de Yoissy](https://i.pinimg.com/736x/f7/fe/a7/f7fea7f8b1c84d60e8e9077d6d43012b.jpg)
+![Foto de Yoissy](https://i.pinimg.com/736x/f9/fd/9a/f9fd9a624731bbd26a6968089ba7ef77.jpg)
 
 
 ## 🌍 ¿De qué trata este sitio?

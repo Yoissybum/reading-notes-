@@ -9,17 +9,8 @@ Hola! Soy Yoissy, y lo que debería saber de mí es que soy una persona apasiona
 
 Este es un espacio donde recopilo mis notas de lectura y aprendizaje sobre programación. Aquí encontrarás resúmenes, apuntes y explicaciones sobre distintos temas que he estudiado en mis clases de desarrollo web. Mi objetivo es tener una base sólida de conocimientos y compartir mi proceso de aprendizaje. 📚💻  
 
-La Industria web
-HTML
-CSS
-Usando IA para codificar
-Markdown y Web Publishing
-Developer Tools
-Control de Versiones
-Wireframing
-Introducción a Javascript
-Arreglos y Control de Flujo
-Introducción al DOM y Proyectos
+## Enlaces Útiles
+- [Git Notes](git-notes.md) - Documento con los comandos esenciales de Git que utilicé en este proyecto.
 
 ## 📖 Notas de Lectura
 
